@@ -1,0 +1,9 @@
+from __future__ import absolute_import
+
+# flake8: noqa
+
+# import apis into api package
+from swagger_client.api.account_information_service__ais_api import AccountInformationServiceAISApi
+from swagger_client.api.o_auth_services_api import OAuthServicesApi
+from swagger_client.api.payment_initiation_service__pis_api import PaymentInitiationServicePISApi
+from swagger_client.api.payment_instrument_issuing_service__piis_api import PaymentInstrumentIssuingServicePIISApi
